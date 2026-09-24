@@ -288,18 +288,28 @@ ilgili paydaşlarla düzenli paylaşmaktayız.
 | **Quality** | API Testing, Integration Testing, Regression Testing, Automated Testing, Performance Testing |
 
 
+## İştirakimiz: Devsfield
+
+DevsGate Yazılım, iştirak şirketi **Devsfield** ile birlikte yazılım geliştirme, teknoloji
+danışmanlığı ve uluslararası proje operasyonlarında ortak yetkinliklerden
+faydalanmaktadır.
+
+Devsfield, kurumsal yazılım geliştirme, teknik uzmanlık ve uluslararası
+projelerde edindiği deneyimle grup yapımızın teknoloji ve mühendislik
+kapasitesini desteklemektedir.
+
 ---
 
 ## İletişim
 
-🌐 [www.devsgate.com](https://www.devsgate.com)
+ [www.devsgate.com](https://www.devsgate.com)
 
-✉️ [info@devsgate.com](mailto:info@devsgate.com)
+ [info@devsgate.com](mailto:info@devsgate.com)
 
-💼 [LinkedIn](https://www.linkedin.com/company/devsgate/)
+ [LinkedIn](https://www.linkedin.com/company/devsgate/)
 
-📍 **İzmir Bilimpark**  
+ **İzmir Bilimpark**  
 İTOB OSB Mh. 10032 Sk. No: 2  
-35471 Menderes / İzmir
+35471 Menderes / İzmir / Türkiye
 
 <sub>© 2026 DevsGate Yazılım. Tüm hakları saklıdır.</sub>
