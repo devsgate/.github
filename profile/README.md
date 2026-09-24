@@ -294,10 +294,6 @@ DevsGate Yazılım, iştirak şirketi **Devsfield** ile birlikte yazılım geli�
 danışmanlığı ve uluslararası proje operasyonlarında ortak yetkinliklerden
 faydalanmaktadır.
 
-Devsfield, kurumsal yazılım geliştirme, teknik uzmanlık ve uluslararası
-projelerde edindiği deneyimle grup yapımızın teknoloji ve mühendislik
-kapasitesini desteklemektedir.
-
 ---
 
 ## İletişim
